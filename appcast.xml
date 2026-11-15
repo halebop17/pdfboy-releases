@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>PDFBoy</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Sun, 15 Nov 2026 13:25:29 +0700</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/halebop17/pdfboy-releases/releases/download/v0.1.0/PDFBoy-0.1.0.dmg" length="4491237" type="application/octet-stream" sparkle:edSignature="F9/9oJQjMbhK8mD/b5F5mF0ap9LNLK1b2DevjIdjg46v6YVgCDmFJacg6T2rnRKbLvVvbpU5rGpne6QtnI4OAQ=="/>
+        </item>
+    </channel>
+</rss>
