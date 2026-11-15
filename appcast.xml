@@ -3,6 +3,24 @@
     <channel>
         <title>PDFBoy</title>
         <item>
+            <title>0.2.1</title>
+            <pubDate>Sun, 15 Nov 2026 15:07:34 +0700</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<!DOCTYPE html>
+<html><head><meta charset="utf-8"><style>
+body { font: 13px -apple-system, sans-serif; line-height: 1.45; margin: 12px 16px; }
+ul { padding-left: 18px; margin: 4px 0; }
+</style></head><body>
+<ul>
+<li>The pointing hand now shows over the toolbar’s zoom buttons, Save Copy and the other buttons, instead of an arrow.</li>
+</ul>
+</body></html>
+]]></description>
+            <enclosure url="https://github.com/halebop17/pdfboy-releases/releases/download/v0.2.1/PDFBoy-0.2.1.dmg" length="4670589" type="application/octet-stream" sparkle:edSignature="KaTRuAI2EfiyB5E7ErPKIv6fzvEIkmgNP3z20lQf9Qj36I0MJKRiEJ1TVODQqeqY4TxpF7p8VaU/+s4RQ4mVAQ=="/>
+        </item>
+        <item>
             <title>0.2.0</title>
             <pubDate>Sun, 15 Nov 2026 14:34:52 +0700</pubDate>
             <sparkle:version>2</sparkle:version>
