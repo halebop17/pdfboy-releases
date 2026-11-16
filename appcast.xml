@@ -3,6 +3,46 @@
     <channel>
         <title>PDFBoy</title>
         <item>
+            <title>1.0.1</title>
+            <pubDate>Tue, 17 Nov 2026 00:55:51 +0700</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<!DOCTYPE html>
+<html><head><meta charset="utf-8"><style>
+body { font: 13px -apple-system, sans-serif; line-height: 1.45; margin: 12px 16px; }
+ul { padding-left: 18px; margin: 4px 0 10px; }
+p { margin: 10px 0 4px; }
+</style></head><body>
+<p>PDFBoy 1.0 is here, with a whole new tool: <b>Mark up</b>.</p>
+<p><b>Mark up</b> (⇧⌘A)</p>
+<ul>
+<li>Draw with a pen that follows your pressure. Sketch a rough line, arrow, box or circle and it turns into a clean shape.</li>
+<li>Shapes: lines, arrows, boxes, ovals, speech bubbles, stars, a loupe and a mask.</li>
+<li>Highlight, underline and strike through text. Add notes, text boxes and callouts. Quick stamps: ✓ ✕ ●, today’s date (also in the Buddhist era) and your initials.</li>
+<li>Whiteout: cover a value in the paper’s own colour and type the new one in the same font.</li>
+<li>Redact: black out text for real. When you save, it’s gone from the file, not just covered.</li>
+<li>Select Area copies any part of a page as a picture.</li>
+<li>“Your marks” in the corner lists everything you added.</li>
+</ul>
+<p><b>Saving</b></p>
+<ul>
+<li>Keep editable: your drawings, shapes, highlights and text stay changeable in Preview and other apps. Or flatten them into the page, as before.</li>
+<li>Marks made in other apps can now be moved, restyled and deleted in PDFBoy.</li>
+</ul>
+<p><b>Signing</b></p>
+<ul>
+<li>Draw your signature with the trackpad, a mouse or a pen tablet, or sign on your iPhone or iPad.</li>
+</ul>
+<p><b>Trial and licence</b></p>
+<ul>
+<li>PDFBoy is free to try for 14 days. After that, opening, filling and marking up stay free, and a licence unlocks saving and exporting. Settings ▸ Licence.</li>
+</ul>
+</body></html>
+]]></description>
+            <enclosure url="https://github.com/halebop17/pdfboy-releases/releases/download/v1.0.1/PDFBoy-1.0.1.dmg" length="5393092" type="application/octet-stream" sparkle:edSignature="NCicZ8peY40VQqJTWSGaZAXKJBf0ra/oPBSccqTV/lyggW83x0vwi7rTix/l6c92SZGUrCiyWBHOy8/h5yZHAA=="/>
+        </item>
+        <item>
             <title>0.2.1</title>
             <pubDate>Sun, 15 Nov 2026 15:07:34 +0700</pubDate>
             <sparkle:version>3</sparkle:version>
@@ -50,14 +90,6 @@ li { margin: 3px 0; }
 </body></html>
 ]]></description>
             <enclosure url="https://github.com/halebop17/pdfboy-releases/releases/download/v0.2.0/PDFBoy-0.2.0.dmg" length="4668493" type="application/octet-stream" sparkle:edSignature="rvklUMiMM7iTA90qP2QmV3meMAXGDMu2nZPeEesANbVa0EtWLqrd7a9PVVQNpis9NLFb5i5jgcVpsi6P44SFAw=="/>
-        </item>
-        <item>
-            <title>0.1.0</title>
-            <pubDate>Sun, 15 Nov 2026 13:25:29 +0700</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/halebop17/pdfboy-releases/releases/download/v0.1.0/PDFBoy-0.1.0.dmg" length="4491237" type="application/octet-stream" sparkle:edSignature="F9/9oJQjMbhK8mD/b5F5mF0ap9LNLK1b2DevjIdjg46v6YVgCDmFJacg6T2rnRKbLvVvbpU5rGpne6QtnI4OAQ=="/>
         </item>
     </channel>
 </rss>
